@@ -37,13 +37,16 @@ The dashboard provides insights into:
 ## 📊 Dashboard Preview
 
 ### 🌍 Page 1 — Global Climate Overview
-![Global Dashboard](screenshots/page1.png)
+<img width="1164" height="674" alt="image" src="https://github.com/user-attachments/assets/89c7055f-5bc4-4ad1-8a30-48d76baf208d" />
+
 
 ### 🔍 Page 2 — Weather Deep Dive
-![Deep Dive](screenshots/page2.png)
+<img width="1166" height="672" alt="image" src="https://github.com/user-attachments/assets/97d4b983-9539-468b-b489-1bb4c3295f7b" />
+
 
 ### 🏙️ Page 3 — City Insights
-![City Insights](screenshots/page3.png)
+<img width="1167" height="671" alt="image" src="https://github.com/user-attachments/assets/76acdeb5-81cc-42d5-8ab0-3fda2d4738d6" />
+
 
 ---
 
@@ -111,13 +114,6 @@ weather-climate-data-analytics/
 - 📡 Real-time weather integration  
 - 🤖 Machine learning for prediction  
 - 🗄️ Database integration (PostgreSQL / Data Warehouse)  
-
----
-
-## 📄 Project Report
-
-📎 Full report available here:  
-[Download Report](./report.pdf)
 
 ---
 
