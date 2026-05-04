@@ -47,8 +47,9 @@ The dashboard provides insights into:
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```bash
 weather-climate-data-analytics/
 │
 ├── data/
@@ -79,8 +80,7 @@ weather-climate-data-analytics/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
----
+```
 
 ## ⚙️ Tools & Technologies
 
