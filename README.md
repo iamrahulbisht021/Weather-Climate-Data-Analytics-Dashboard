@@ -52,15 +52,14 @@ The dashboard provides insights into:
 ```bash
 weather-climate-data-analytics/
 │
-├── data/
-│   └── processed/
-│       ├── fact_weather.csv
-│       ├── dim_city.csv
-│       ├── dim_date.csv
-│       ├── dim_weather_code.csv
-│       ├── agg_daily.csv
-│       ├── agg_monthly.csv
-│       └── agg_extremes.csv
+├── data/   
+│   ├── fact_weather.csv
+│   ├── dim_city.csv
+│   ├── dim_date.csv
+│   ├── dim_weather_code.csv
+│   ├── agg_daily.csv
+│   ├── agg_monthly.csv
+│   └── agg_extremes.csv
 │
 ├── dashboards/
 │   └── weather_climate_dashboard.pbix
