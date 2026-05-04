@@ -71,11 +71,6 @@ weather-climate-data-analytics/
 ├── scripts/
 │   └── etl_pipeline.py
 │
-├── screenshots/
-│   ├── global_overview.png
-│   ├── deep_dive.png
-│   └── city_insights.png
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
