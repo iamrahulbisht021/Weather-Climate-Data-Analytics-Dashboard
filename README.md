@@ -52,7 +52,7 @@ The dashboard provides insights into:
 weather-climate-data-analytics/
 │
 ├── data/
-│   ├── processed/
+│   └── processed/
 │       ├── fact_weather.csv
 │       ├── dim_city.csv
 │       ├── dim_date.csv
@@ -60,15 +60,13 @@ weather-climate-data-analytics/
 │       ├── agg_daily.csv
 │       ├── agg_monthly.csv
 │       └── agg_extremes.csv
-│   
-│  
 │
 ├── dashboards/
 │   └── weather_climate_dashboard.pbix
 │
 ├── reports/
 │   ├── project_report.pdf
-│   └── presentation.pptx
+│   └── project_presentation.pptx
 │
 ├── scripts/
 │   └── etl_pipeline.py
